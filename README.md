@@ -1,14 +1,113 @@
-<<<<<<< HEAD
+# Apex Allergy & Asthma Website Redesign
 
-  # apex-redesign
+A complete redesign and frontend implementation of the Home Page and Contact Page for Apex Allergy & Asthma.
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code> with a minimum version of 20.
+The goal of this project was to create a modern, user-friendly, and responsive healthcare website experience while improving usability, accessibility, and patient engagement.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
-=======
-# apex-allergy-redesign
->>>>>>> 821be86bef278738faab72da7ae39642bb937251
+---
+
+## 🔗 Project Links
+
+### Live Website
+
+[Live Demo](https://apex-allergy-redesign-jqqe.vercel.app/)
+
+### Figma Design
+
+[Figma Design File](https://www.figma.com/design/Tb8BzdAeA3ZI1bL0jJ8fhF/Apex-allergy-asthma?node-id=0-1&t=Yq22WXrpKeGiQQ8M-1)
+
+### Documentation
+
+[Redesign Report](https://drive.google.com/file/d/1GryKTXhN4ndB6m1GnyTH4113Brc_LPzP/view)
+
+### Original Website
+
+https://www.apexallergysa.com/
+
+---
+
+## 📌 Pages Redesigned
+
+### Home Page
+
+- Hero Section
+- Services Section
+- About Us
+- Doctors Section
+- Testimonials
+- Call-to-Action Sections
+- Footer
+
+### Contact Page
+
+- Contact Hero
+- Appointment Request Form
+- Contact Information
+- FAQ Section
+- Footer
+
+---
+
+## 🎨 Design System
+
+### Typography
+
+- Poppins
+- Inter
+
+### Color Palette
+
+| Color   | Usage                            |
+| ------- | -------------------------------- |
+| #2563EB | Primary Actions & Buttons        |
+| #DBEAFE | Highlights & Background Elements |
+| #F8FAFC | Page Background                  |
+| #111827 | Headings                         |
+| #6B7280 | Body Text                        |
+| #FFFFFF | Cards & Content Areas            |
+
+---
+
+## 💻 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Figma
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Prachichhatrola/apex-allergy-redesign.git
+```
+
+Navigate to the project:
+
+```bash
+cd apex-allergy-redesign
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+Create production build:
+
+```bash
+npm run build
+```
+
+---
